@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CP site Official</title>
+    <link>https://cpsite.github.io/</link>
+    <description>Recent content on CP site Official</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jul 2020 14:21:26 +0800</lastBuildDate>
+    
+	<atom:link href="https://cpsite.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>EEE 221</title>
+      <link>https://cpsite.github.io/posts/eee221/</link>
+      <pubDate>Wed, 01 Jul 2020 14:21:26 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/posts/eee221/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSE 204</title>
+      <link>https://cpsite.github.io/posts/cse204/</link>
+      <pubDate>Wed, 03 Jun 2020 14:21:26 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/posts/cse204/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSE 203</title>
+      <link>https://cpsite.github.io/posts/cse203/</link>
+      <pubDate>Tue, 02 Jun 2020 14:21:26 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/posts/cse203/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MTH201</title>
+      <link>https://cpsite.github.io/posts/math201/</link>
+      <pubDate>Mon, 01 Jun 2020 13:55:47 +0600</pubDate>
+      
+      <guid>https://cpsite.github.io/posts/math201/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MTH203</title>
+      <link>https://cpsite.github.io/posts/math203/</link>
+      <pubDate>Mon, 01 Jun 2020 13:55:47 +0600</pubDate>
+      
+      <guid>https://cpsite.github.io/posts/math203/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSE 205</title>
+      <link>https://cpsite.github.io/posts/cse205/</link>
+      <pubDate>Sun, 31 May 2020 13:57:48 +0600</pubDate>
+      
+      <guid>https://cpsite.github.io/posts/cse205/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSE 206</title>
+      <link>https://cpsite.github.io/posts/cse206/</link>
+      <pubDate>Sun, 31 May 2020 13:57:48 +0600</pubDate>
+      
+      <guid>https://cpsite.github.io/posts/cse206/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>topic 1</title>
+      <link>https://cpsite.github.io/about/desc/</link>
+      <pubDate>Mon, 11 Nov 2019 01:30:25 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/about/desc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>topic 2</title>
+      <link>https://cpsite.github.io/about/desc2/</link>
+      <pubDate>Mon, 11 Nov 2019 01:30:24 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/about/desc2/</guid>
+      <description>coming soon</description>
+    </item>
+    
+    <item>
+      <title>topic 3</title>
+      <link>https://cpsite.github.io/about/desc3/</link>
+      <pubDate>Mon, 11 Nov 2019 01:30:23 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/about/desc3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

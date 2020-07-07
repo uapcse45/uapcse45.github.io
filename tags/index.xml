@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on CP site Official</title>
+    <link>https://cpsite.github.io/tags/</link>
+    <description>Recent content in Tags on CP site Official</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jul 2020 14:21:26 +0800</lastBuildDate>
+    
+	<atom:link href="https://cpsite.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>EEE221</title>
+      <link>https://cpsite.github.io/tags/eee221/</link>
+      <pubDate>Wed, 01 Jul 2020 14:21:26 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/tags/eee221/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSE204</title>
+      <link>https://cpsite.github.io/tags/cse204/</link>
+      <pubDate>Wed, 03 Jun 2020 14:21:26 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/tags/cse204/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSE203</title>
+      <link>https://cpsite.github.io/tags/cse203/</link>
+      <pubDate>Tue, 02 Jun 2020 14:21:26 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/tags/cse203/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MTH201</title>
+      <link>https://cpsite.github.io/tags/mth201/</link>
+      <pubDate>Mon, 01 Jun 2020 13:55:47 +0600</pubDate>
+      
+      <guid>https://cpsite.github.io/tags/mth201/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MTH203</title>
+      <link>https://cpsite.github.io/tags/mth203/</link>
+      <pubDate>Mon, 01 Jun 2020 13:55:47 +0600</pubDate>
+      
+      <guid>https://cpsite.github.io/tags/mth203/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSE205</title>
+      <link>https://cpsite.github.io/tags/cse205/</link>
+      <pubDate>Sun, 31 May 2020 13:57:48 +0600</pubDate>
+      
+      <guid>https://cpsite.github.io/tags/cse205/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSE206</title>
+      <link>https://cpsite.github.io/tags/cse206/</link>
+      <pubDate>Sun, 31 May 2020 13:57:48 +0600</pubDate>
+      
+      <guid>https://cpsite.github.io/tags/cse206/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
