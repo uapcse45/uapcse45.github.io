@@ -6,7 +6,7 @@
     <description>Recent content in CSE204 on UAP CSE BATCH 45</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jun 2020 14:21:26 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2020 14:21:26 +0800</lastBuildDate>
     
 	<atom:link href="https://uapcse45.github.io/tags/cse204/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,20 @@
     <item>
       <title>CSE 204</title>
       <link>https://uapcse45.github.io/posts/cse204/</link>
-      <pubDate>Wed, 03 Jun 2020 14:21:26 +0800</pubDate>
+      <pubDate>Mon, 06 Jul 2020 14:21:26 +0800</pubDate>
       
       <guid>https://uapcse45.github.io/posts/cse204/</guid>
-      <description>Class Recording (A2): Lecture 01 Lecture 02-Part 01 Lecture 02-Part 02 </description>
+      <description>Class Recording (A2): Lecture 01 Lecture 02-Part 01 Lecture 02-Part 02 Short Notes: Lecture 01: Problem 01
+Problem 02
+Problem 03
+ Lowercase Name&amp;mdash;-&amp;gt;Method
+  Uppercase Name&amp;mdash;-&amp;gt;Class
+ Lecture 02: Problem 01
+Problem 02
+Problem 04
+ import javax.swing.JOptionPane;
+  String name = JOptionPane.showInputDialog(null, &amp;ldquo;enter name&amp;rdquo;);
+ </description>
     </item>
     
   </channel>
