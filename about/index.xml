@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abouts on CP site Official</title>
-    <link>https://cpsite.github.io/about/</link>
-    <description>Recent content in Abouts on CP site Official</description>
+    <title>Abouts on UAP CSE BATCH 45</title>
+    <link>https://uapcse45.github.io/about/</link>
+    <description>Recent content in Abouts on UAP CSE BATCH 45</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Nov 2019 01:30:25 +0800</lastBuildDate>
     
-	<atom:link href="https://cpsite.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://uapcse45.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>topic 1</title>
-      <link>https://cpsite.github.io/about/desc/</link>
+      <link>https://uapcse45.github.io/about/desc/</link>
       <pubDate>Mon, 11 Nov 2019 01:30:25 +0800</pubDate>
       
-      <guid>https://cpsite.github.io/about/desc/</guid>
+      <guid>https://uapcse45.github.io/about/desc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>topic 2</title>
-      <link>https://cpsite.github.io/about/desc2/</link>
+      <link>https://uapcse45.github.io/about/desc2/</link>
       <pubDate>Mon, 11 Nov 2019 01:30:24 +0800</pubDate>
       
-      <guid>https://cpsite.github.io/about/desc2/</guid>
+      <guid>https://uapcse45.github.io/about/desc2/</guid>
       <description>coming soon</description>
     </item>
     
     <item>
       <title>topic 3</title>
-      <link>https://cpsite.github.io/about/desc3/</link>
+      <link>https://uapcse45.github.io/about/desc3/</link>
       <pubDate>Mon, 11 Nov 2019 01:30:23 +0800</pubDate>
       
-      <guid>https://cpsite.github.io/about/desc3/</guid>
+      <guid>https://uapcse45.github.io/about/desc3/</guid>
       <description></description>
     </item>
     
