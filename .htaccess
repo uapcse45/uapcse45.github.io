@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Password Protected Area"
-AuthUserFile /uapcse45/uapcse45.github.io/.htpasswd
-Require valid-user
